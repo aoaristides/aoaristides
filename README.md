@@ -13,17 +13,39 @@
   </a>
 </p>
 
-<!--
-**aoaristides/aoaristides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
+    <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
+    <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
+</p>
 
-Here are some ideas to get you started:
+![Anderson github stats](https://github-readme-stats.vercel.app/api?username=aoaristides&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoaristides&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aoaristides)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Olá 👋
+
+Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
+
+### Formações
+- 🎓 Graduado em Sistemas de Informação na FEATI (Faculdade de Ibaiti) - 2º/2011
+
+## Principais Habilidades
+- [x] Java | Spring | Java EE
+- [x] NodeJS | Express 
+- [x] Junit | Mockito 
+- [x] Tomcat
+- [x] Swagger | OpenApi
+- [x] Restful | SOAP | gRPC
+- [x] Angular | TypeScript | Angular JS | Javascript
+- [x] HTML | CSS
+- [x] Apache Kafka | RabbitMQ
+- [x] Postgres | Oracle | SQL Server | MySQL | DB2 
+- [x] Docker | Jenkins | Sonar | Git
+- [x] Eclipse | IntelliJ IDEA | VSCode | DataGrip | Postman | SoapUI
+- [x] Jira | Redmine 
+- [x] Scrum
+- [x] Linux | Windows | Mac OS 
+
